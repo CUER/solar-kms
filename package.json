@@ -1,0 +1,22 @@
+{
+  "name": "solarkm",
+  "version": "0.0.1",
+  "description": "Solar Miles Doodah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CUER/solarkm.git"
+  },
+  "author": "Matthew Else <me390@cam.ac.uk>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/CUER/solarkm/issues"
+  },
+  "homepage": "https://github.com/CUER/solarkm#readme",
+  "dependencies": {
+    "semantic-ui": "^2.2.4"
+  }
+}
