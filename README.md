@@ -3,6 +3,8 @@ CUER Solar Kilometres Website
 
 ## Setup
 
+You need npm and gulp installed to install the necessary dependencies.
+
 ```bash
 git clone https://github.com/matthewelse/solar-kms
 cd solar-kms
